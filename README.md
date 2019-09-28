@@ -52,3 +52,4 @@ Now you can use the hello.c in Stata. For that, run the following command in you
 
 You will receive 'Hello from C' on your screen.
 
+Kamila Kolpashnikova | Камила Колпашникова 2019
